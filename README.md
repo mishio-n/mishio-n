@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### My Github Stats
-![](https://github-readme-stats.vercel.app/api?username=mishio-n&show_icons=true&theme=gruvbox)
+[![](https://github-readme-stats.vercel.app/api?username=mishio-n&show_icons=true&theme=gruvbox)](https://github.com/mishio-n)
 
 ### Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mishio-n&layout=compact)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=mishio-n&layout=compact)](https://github.com/mishio-n)
