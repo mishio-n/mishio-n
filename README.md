@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 
 ### My Products (WIP)
 
-- https://app.memoranduma.com
+- https://ouchi-pog.vercel.app
 - https://mishio-blog.vercel.app
